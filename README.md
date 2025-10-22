@@ -3,9 +3,7 @@
 A simple yet powerful desktop application for batch resizing of JPG, JPEG, and PNG images. Built with Python and PyQt5, this tool provides a clean graphical user interface to quickly process entire folders of images.
 
 ---
-
-`.
--->
+![Application Screenshot](screenshot.png)
 ---
 
 ## ✨ Features
