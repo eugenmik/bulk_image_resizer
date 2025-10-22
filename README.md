@@ -33,7 +33,7 @@ To run this application from the source code, you'll need Python 3 and a few pac
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git)
+    git clone [https://github.com/eugenmik/bulk_image_resizer.git](https://github.com/eugenmik/bulk_image_resizer.git)
     cd YOUR_REPOSITORY
     ```
 
