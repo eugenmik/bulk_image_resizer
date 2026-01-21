@@ -6,7 +6,7 @@ A simple yet powerful desktop application for batch resizing of JPG, JPEG, and P
 ![Application Screenshot](screenshot.png)
 ---
 
-## ✨ Features
+## Features
 
 * **Batch Processing**: Resize all images in a selected folder at once.
 * **Proportional Resizing**: Images are resized based on their longest side, preserving the aspect ratio.
@@ -16,7 +16,7 @@ A simple yet powerful desktop application for batch resizing of JPG, JPEG, and P
 * **Simple GUI**: An intuitive and easy-to-use interface, perfect for users of all skill levels.
 * **Cross-Platform**: Works on Windows, macOS, and Linux.
 
-## 🛠️ How to Use
+## How to Use
 
 1.  **Source Folder**: Click "Browse..." to select the folder containing the images you want to resize.
 2.  **Destination Folder**: Click "Browse..." to select a folder where the resized images will be saved. (This is disabled if you choose to overwrite).
@@ -25,7 +25,7 @@ A simple yet powerful desktop application for batch resizing of JPG, JPEG, and P
 5.  **Overwrite Originals**: Check this box if you want to replace the original images with the resized ones. **Use with caution!**
 6.  **START**: Click the START button to begin the process. The progress bar will show the status, and the log window will display details for each file.
 
-## ⚙️ Setup and Installation
+## Setup and Installation
 
 To run this application from the source code, you'll need Python 3 and a few packages.
 
@@ -56,7 +56,7 @@ To run this application from the source code, you'll need Python 3 and a few pac
     python main.py
     ```
 
-## 🚀 Creating an Executable (`.exe`)
+## Creating an Executable (`.exe`)
 
 You can compile this application into a single standalone executable file using **PyInstaller**. This allows you to run it on any Windows computer without needing to install Python or any libraries.
 
@@ -82,7 +82,7 @@ You can compile this application into a single standalone executable file using 
 3.  **Find your executable:**
     Once the process is complete, you will find your `Bulk Image Resizer.exe` inside a new `dist` folder.
 
-## 🎨 Customization
+## Customization
 
 You can easily customize the look of the application:
 * **Icon**: Replace `icon.ico` with your own `.ico` file (of the same name) to change the application's icon.
